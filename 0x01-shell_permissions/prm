@@ -1,2 +1,2 @@
 #!/bin/bash
-find . ! -name 'README.md' -exec chmod u+x 
+find . ! -name 'README.md' -exec chmod u+x {} + 
