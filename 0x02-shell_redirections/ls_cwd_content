@@ -1,0 +1,18 @@
+total 28
+drwxr-xr-x 1 alinafeick alinafeick   512 Aug  9 20:45 .
+drwxr-xr-x 1 alinafeick alinafeick   512 Aug  8 19:58 ..
+-rwxr--r-- 1 alinafeick alinafeick    32 Aug  8 20:30 0-hello_world
+-rwxr--r-- 1 alinafeick alinafeick    28 Aug  8 21:14 1-confused_smiley
+-rwxr--r-- 1 alinafeick alinafeick    28 Aug  8 21:17 2-hellofile
+-rwxr--r-- 1 alinafeick alinafeick    39 Aug  8 21:20 3-twofiles
+-rwxr--r-- 1 alinafeick alinafeick    35 Aug  8 21:54 4-lastlines
+-rwxr--r-- 1 alinafeick alinafeick    35 Aug  8 21:56 5-firstlines
+-rwxr--r-- 1 alinafeick alinafeick    40 Aug  9 14:49 6-third_line
+-rwxr--r-- 1 alinafeick alinafeick    80 Aug  9 20:37 7-file
+-rwxr--r-- 1 alinafeick alinafeick    36 Aug  9 20:44 8-cwd_state
+-rw-r--r-- 1 alinafeick alinafeick 25722 Aug  8 20:01 README.md
+-rwxr--r-- 1 alinafeick alinafeick    12 Aug  9 20:35 \*\\'"Best School"\\\*$\?\*\*\*\*\*:)
+-rwxr--r-- 1 alinafeick alinafeick    66 Aug  8 20:11 git
+-rw-r--r-- 1 alinafeick alinafeick     0 Aug  9 20:45 ls_cwd_content
+-rwxr--r-- 1 alinafeick alinafeick    61 Aug  8 20:10 prm
+-rwxr--r-- 1 alinafeick alinafeick    62 Aug  9 20:41 test.txt
