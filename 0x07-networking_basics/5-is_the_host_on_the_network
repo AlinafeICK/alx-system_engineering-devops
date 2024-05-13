@@ -5,12 +5,4 @@ if [ $# -eq 0 ]; then
     exit 1
 fi
 
-# Extract the IP address from the argument
-ip_address="$1"
-
-# Ping the IP address 5 times
-ping_result=$(ping -c 5 "$ip_address")
-
-# Display the ping results
-echo "$ping_result"
-
+ping -c 5 "$1"
