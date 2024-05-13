@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+#This Script displays listening ports
+sudo netstat -tunlp | grep 'LISTEN'
+
