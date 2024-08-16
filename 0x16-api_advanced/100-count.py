@@ -1,12 +1,12 @@
 #!/usr/bin/python3
-""" raddit api"""
+"""Function that queries the reddit api"""
 
 import json
 import requests
 
 
 def count_words(subreddit, word_list, after="", count=[]):
-    """count all words"""
+    """Count all words"""
 
     if after == "":
         count = [0] * len(word_list)
@@ -52,4 +52,3 @@ def count_words(subreddit, word_list, after="", count=[]):
                     print("{}: {}".format(word_list[i].lower(), count[i]))
         else:
             count_words(subreddit, word_list, after, count)
-    
